@@ -21,4 +21,6 @@ De følgende tekster er hvad vi har været igennem dette semester. Det står oft
 ## View Models
 
 ## Identity framework
-* Google Login
+
+## Deployment
+* [Deployment Appharbor](https://github.com/ElectiveAspNet/09_deployment/blob/master/README.md?id=sfjdfjsld485odgfhgksdjhgskfjh)

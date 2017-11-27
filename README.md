@@ -11,7 +11,11 @@ De følgende tekster er hvad vi har været igennem dette semester. Der står oft
 * [Working with static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
 
 ## MVC
-* []()
+* [The MVC Pattern](https://github.com/ElectiveAspNet/02_MVC/blob/master/Materials/MVC.pdf)
+* [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview)
+* [Routing in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/routing)
+* [Introduction to ASP.NET Core with Visual Studio 2017](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841?l=JWZaodE6C_5706218965)
+
 
 ## Entity Framework
 * [Getting Started with EF Core on .NET Core Console App with a New database](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)

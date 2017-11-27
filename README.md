@@ -4,8 +4,14 @@ Dette dækker hvad i kan forvente at blive hørt i til eksamen.
 De følgende tekster er hvad vi har været igennem dette semester. Der står ofte mere and hvad jeg har gennemgået, men hvis i er med på det overordnede og kan vise det i jeres projekt som i har med til eksamen, er i godt dækket ind.
 
 ## Dotnet CLI
+* [Get Started with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started)
+
+## Dot Net basic Files and config
+* [Application Startup in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup)
+* [Working with static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
 
 ## MVC
+* []()
 
 ## Entity Framework
 * [Getting Started with EF Core on .NET Core Console App with a New database](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)

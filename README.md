@@ -25,9 +25,13 @@ De følgende tekster er hvad vi har været igennem dette semester. Der står oft
 ## Validation
 
 ## Bootstrap
+* [Bootstrap documentation](http://getbootstrap.com/)
 
 ## API and JSON
-
+* [RESTful Service Best Practices](http://www.restapitutorial.com/media/RESTful_Best_Practices-v1_1.pdf)
+* [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+* [W3schools - JSON](https://www.w3schools.com/js/js_json_intro.asp)
+* [Create a web API with ASP.NET Core and Visual Studio for Windows](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
 ## View Models
 
 ## Identity framework

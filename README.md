@@ -51,4 +51,4 @@ De følgende tekster er hvad vi har været igennem dette semester. Der står oft
 * [Role based Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/roles)
 
 ## Deployment
-* [Deployment Appharbor](https://github.com/ElectiveAspNet/09_deployment/blob/master/README.md?id=sfjdfjsld485odgfhgksdjhgskfjh)
+* [Deployment Appharbor](https://github.com/ElectiveAspNet/09_deployment/blob/master/README.md?id=sfjdfjsld485odgfhgksdjhgskfjh#web-publish)

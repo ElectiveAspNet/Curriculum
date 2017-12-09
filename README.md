@@ -21,8 +21,14 @@ De følgende tekster er hvad vi har været igennem dette semester. Der står oft
 * [Getting Started with EF Core on .NET Core Console App with a New database](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)
 
 ## Razor
+* [Views in ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview)
+* [Razor syntax for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor)
+
+## Tag Helpers
+* [Introduction to Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
 
 ## Validation
+* [Adding validation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/validation)
 
 ## Bootstrap
 * [Bootstrap documentation](http://getbootstrap.com/)

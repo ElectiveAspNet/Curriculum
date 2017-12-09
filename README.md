@@ -38,7 +38,9 @@ De følgende tekster er hvad vi har været igennem dette semester. Der står oft
 * [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [W3schools - JSON](https://www.w3schools.com/js/js_json_intro.asp)
 * [Create a web API with ASP.NET Core and Visual Studio for Windows](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
+
 ## View Models
+* [View Models](https://github.com/ElectiveAspNet/09_deployment/blob/master/README.md?id=sfjdfjsld485odgfhgksdjhgskfjh#view-models)
 
 ## Identity framework
 * [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?tabs=visual-studio%2Caspnetcore2x)
